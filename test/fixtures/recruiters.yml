@@ -1,0 +1,7 @@
+# # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   name: "Recruiter"
+#   email: "recruiter@mail.com"
+#   password: "123456"
+#   password_confirmation: "123456"

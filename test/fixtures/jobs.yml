@@ -1,0 +1,19 @@
+# # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   title: MyString
+#   description: MyString
+#   start_date: 2024-07-03 23:10:12
+#   end_date: 2024-07-03 23:10:12
+#   status: MyString
+#   skills: MyString
+#   recruiter: one
+
+# two:
+#   title: MyString
+#   description: MyString
+#   start_date: 2024-07-03 23:10:12
+#   end_date: 2024-07-03 23:10:12
+#   status: MyString
+#   skills: MyString
+#   recruiter: two
